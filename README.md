@@ -1,2 +1,5 @@
 # bank_accounts
- Exercice compte bancaire python
+Ecrire un programme qui implémente en POO un fonctionnement bancaire basique
+
+
+
