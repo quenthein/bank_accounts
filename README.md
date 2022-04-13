@@ -1,7 +1,7 @@
 # bank_accounts_programm
 
 ## Objectif: 
-Ecrire un programme qui implémente en POO un fonctionnement bancaire basique par l'interméfiaire du langage Python v.3.9
+Ecrire un programme qui implémente en POO un fonctionnement bancaire basique par l'intermédiaire du langage Python v.3.9
 
 ## Résumé
 Le projet propose une interface en ligne de commande, de gestion de deux comptes bancaires :
