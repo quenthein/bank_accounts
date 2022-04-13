@@ -25,7 +25,7 @@ Le fichier main.py habrite le fonctionnement de l'interface en ligne de commande
 
 ---
 
-*Réalisation dans le cadre de la POEC Cybersécurité de l'école EPSI*
+*Réalisation dans le cadre de la POEC Cybersécurité de l'école EPSI Rennes*
 
-*lien de l'exercice original :*
+*Lien de l'exercice original :*
 [Comptes Bancaires - Exercice](https://gitlab.com/docusland/compte-bancaires-exercice)
