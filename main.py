@@ -127,7 +127,7 @@ account_number = '1234'
 agios_percentage = 3.8
 interest_percentage = 6
 bank_balance = 400
-overdraft = bank_balance
+overdraft = 0
 
 current = CurrentAccount(account_number, bank_balance, owner_name, overdraft, agios_percentage)
 savings = SavingsAccount(account_number, bank_balance, interest_percentage)
