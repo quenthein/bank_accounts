@@ -25,6 +25,8 @@ Le fichier main.py habrite le fonctionnement de l'interface en ligne de commande
 
 ---
 
+*Projet en cours*
+
 *Réalisation dans le cadre de la POEC Cybersécurité de l'école EPSI Rennes*
 
 *Lien de l'exercice original :*
